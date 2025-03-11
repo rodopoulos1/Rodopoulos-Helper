@@ -1,4 +1,4 @@
-# CS2 Help Menu Plugin
+# Rodopoulos-Helper
 
 ## About
 
