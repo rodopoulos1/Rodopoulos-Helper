@@ -51,3 +51,6 @@ The plugin supports two languages: English (`en`) and Portuguese (`pt-br`).
   "ConfigVersion": 1
 }
 ```
+
+## Support
+I developed this plugin for my own CS2 server. I don't require massive donations. If you'd like to visit, check out NEXORA NETWORK, a CS2 server in Brazil. <3
